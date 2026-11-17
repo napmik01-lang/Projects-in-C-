@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1732477671 source:c:\users\napmi\desktop\c++ projects\program2shopdrive\sedan.cpp
+	"sedan.h"
+
+1732477485 c:\users\napmi\desktop\c++ projects\program2shopdrive\sedan.h
+	"vehicle.h"
+
+1732477854 source:c:\users\napmi\desktop\c++ projects\program2shopdrive\truck.cpp
+	"Truck.h"
+
+1732477854 c:\users\napmi\desktop\c++ projects\program2shopdrive\truck.h
+	"vehicle.h"
+
+1732575045 source:c:\users\napmi\desktop\c++ projects\program2shopdrive\main.cpp
+	<iostream>
+	"vehicle.h"
+	"sedan.h"
+	"Truck.h"
+
+1732477671 c:\users\napmi\desktop\c++ projects\program2shopdrive\vehicle.h
+	<iostream>
+
+1732575045 source:c:\users\napmi\desktop\c++ projects\program2shopdrive\vehicle.cpp
+	"vehicle.h"
+

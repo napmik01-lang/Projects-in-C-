@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1734290444 source:c:\users\napmi\desktop\c++ projects\program 3\project3att3\main.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<chrono>
+
